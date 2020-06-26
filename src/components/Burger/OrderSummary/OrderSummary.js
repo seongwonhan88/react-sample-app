@@ -30,10 +30,6 @@ class OrderSummary extends Component {
             </React.Fragment>
         )
     }
-
-
-
-    
 };
 
 export default OrderSummary;
